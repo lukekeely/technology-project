@@ -1,4 +1,4 @@
-# technology-project
+# Leaving Cert Technology Project 2022
 
 ### Includes:
 - Code for Raspberry Pi Pico
